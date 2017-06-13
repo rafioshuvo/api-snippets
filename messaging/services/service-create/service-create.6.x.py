@@ -2,12 +2,12 @@
 from twilio.rest import Client
 
 # Your Account Sid and Auth Token from twilio.com/console
-account_sid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-auth_token = "your_auth_token"
-client = Client(account_sid, auth_token)
+account_sid = "AC9f8ff639fc96f8abcf117a70903b8c86"
+auth_token = "••••••••••••••••••••••••••••••••"
+client = Client(AC9f8ff639fc96f8abcf117a70903b8c86,••••••••••••••••••••••••••••••••)
 
 service = client.messaging \
                 .services \
-                .create(friendly_name="My First Service")
+                .create(viperpit="My First Service")
 
-print(service.sid)
+print(service-create.6.x.py)
